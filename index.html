@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<link rel="stylesheet" href= "styles/estilo.css">
+<title>Manual de Software</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("article").hide();
+  $("footer").hide();
+  $("#javafecha").show();
+  $("#menuofimatica").click(function(){
+    $("article").hide();
+    $("#ofimatica").show();
+    $("#softwarerecuperacion").hide();
+    $("#javafecha").hide();
+    $("#utilidades").hide();
+    $("#softwareofimatico").show();
+    $("#portables").hide();
+    $("#Word").hide();
+    $("#Avast").hide();
+    $("#HBCD").hide();
+    $("#Firefoxx").hide();
+  });
+  $("#menuseguridad").click(function(){
+    $("article").hide();
+    $("#seguridad").show();
+    $("#softwarerecuperacion").hide();
+    $("#javafecha").hide();
+    $("#softwareofimatico").hide();
+    $("#utilidades").show();
+    $("#portables").hide();
+    $("#Word").hide();
+    $("#Avast").hide();
+    $("#HBCD").hide();
+    $("#Firefoxx").hide();
+  });
+  $("#menurecuperacion").click(function(){
+    $("article").hide();
+    $("#recuperacion").show();
+    $("#javafecha").hide();
+    $("#utilidades").hide();
+    $("#softwareofimatico").hide();
+    $("#softwarerecuperacion").show();
+    $("#portables").hide();
+    $("#Word").hide();
+    $("#Avast").hide();
+    $("#HBCD").hide();
+    $("#Firefoxx").hide();
+  });
+  $("#menuaplicaciones").click(function(){
+    $("article").hide();
+    $("#aplicaciones").show();
+    $("#javafecha").hide();
+    $("#utilidades").hide();
+    $("#softwareofimatico").hide();
+    $("#portables").show();
+    $("#softwarerecuperacion").hide();
+    $("#Word").hide();
+    $("#Avast").hide();
+    $("#HBCD").hide();
+    $("#Firefoxx").hide();
+  });
+  $("#Word").click(function(){
+    $("article").hide();
+    $("#ofimatica").show();
+    $("#javafecha").hide();
+    $("#utilidades").hide();
+    $("#softwareofimatico").show();
+    $("#portables").hide();
+    $("#softwarerecuperacion").hide();
+    $("#Word").hide();
+    $("#Avast").hide();
+    $("#HBCD").hide();
+    $("#Firefoxx").hide();
+  });
+  $("#Avast").click(function(){
+    $("article").hide();
+    $("#seguridad").show();
+    $("#softwarerecuperacion").hide();
+    $("#javafecha").hide();
+    $("#softwareofimatico").hide();
+    $("#utilidades").show();
+    $("#portables").hide();
+    $("#Word").hide();
+    $("#Avast").hide();
+    $("#HBCD").hide();
+    $("#Firefoxx").hide();
+  });
+  $("#HBCD").click(function(){
+    $("article").hide();
+    $("#recuperacion").show();
+    $("#javafecha").hide();
+    $("#utilidades").hide();
+    $("#softwareofimatico").hide();
+    $("#softwarerecuperacion").show();
+    $("#portables").hide();
+    $("#Word").hide();
+    $("#Avast").hide();
+    $("#HBCD").hide();
+    $("#Firefoxx").hide();
+  });
+  $("#Firefoxx").click(function(){
+    $("article").hide();
+    $("#aplicaciones").show();
+    $("#javafecha").hide();
+    $("#utilidades").hide();
+    $("#softwareofimatico").hide();
+    $("#portables").show();
+    $("#softwarerecuperacion").hide();
+    $("#Word").hide();
+    $("#Avast").hide();
+    $("#HBCD").hide();
+    $("#Firefoxx").hide();
+  });
+});
+</script>
+</head>
+<h1>Manual de instalación de Software (WINDOWS Y UBUNTU)</h1>
+<body>
+  <div class="flex-container">
+    <div><button>Registro</button></div>
+    <div><button>Login</button></div> 
+  </div>  
+<img src="friki-PhotoRoom.png" alt="Friki" width="150" height="170">
+<p>Manual diseñado para gente inexperta en informática</p>
+
+<header>
+  <h2>Tipos de Software</h2>
+</header>
+
+<section>
+  <nav>
+    <ul>
+      <li id="menuofimatica"><a href="#ofimatica">Software Ofimático</a></li>
+      <li id="menuseguridad"><a href="#seguridad">Utilidades de Seguridad</a></li>
+      <li id="menurecuperacion"><a href="#recuperacion">Software de Recuperación</a></li>
+      <li id="menuaplicaciones"><a href="#aplicaciones">Aplicaciones Portables</a></li>
+    </ul>
+  </nav>
+  <article id="ofimatica">
+    <iframe  style="width:100%; height:600px; border:none"src="pages/ofimatica.html"></iframe>
+  </article>
+  <article id="seguridad">
+    <iframe   style="width:100%; height:600px; border:none"src="pages/seguridad.html"></iframe>
+  </article>
+  <article id="recuperacion">
+    <iframe style="width:100%; height:600px; border:none"src="pages/recuperacion.html"></iframe>
+  </article>
+  <article id="aplicaciones">
+    <iframe style="width:100%; height:600px; border:none"src="pages/aplicaciones.html"></iframe>
+  </article>
+</section>
+<section>
+ <p>
+ <div id="Word" align="left"><a href="#ofimatica"><img src="word.png" alt="word" width="100" height="120"></img></a>Microsoft Word, uno de los mejores editores de texto</div>
+  <br clear="right">
+ </p>
+ <p>
+  <div id="Avast" align="left"><a href="#seguridad"><img src="avast.png" alt="avast" width="100" height="120"></a>Avast, uno de los mejores antivirus</div>
+  <br clear="right">
+ </p>
+ <p>
+  <div id="HBCD" align="left"><a href="#recuperacion"><img src="hbcd.jpg" alt="HBCD" width="100" height="120"></a>HBCD, para recuperar elementos eliminados</div>
+  <br clear="right">
+ </p>
+ <p>
+  <div id="Firefoxx" align="left"><a href="#aplicaciones"><img src="firefox2.svg.png" alt="Firefoxx" width="100" height="120"></a>Firefox, uno de los navegadores más populares</div>
+  <br clear="right">
+ </p>
+</section>
+<footer id= "javafecha">
+  <head>
+<script type="text/javascript">
+  function actualizaReloj(){  
+  
+  marcacion = new Date()  
+  
+  Hora = marcacion.getHours()  
+    
+  Minutos = marcacion.getMinutes()  
+    
+  Segundos = marcacion.getSeconds()  
+    
+  
+  if (Hora<=9) 
+  Hora = "0" + Hora 
+  
+  if (Minutos<=9) 
+  Minutos = "0" + Minutos 
+  
+  if (Segundos<=9) 
+  Segundos = "0" + Segundos 
+    
+  var Dia = new Array("Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", 
+  
+  "Domingo"); 
+  var Mes = new 
+  
+  Array("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"); 
+  var Hoy = new Date(); 
+  var Anio = Hoy.getFullYear(); 
+  var Fecha = "Córdoba, " + Dia[Hoy.getDay()] + ", " + Hoy.getDate() + " de " + Mes[Hoy.getMonth()] + " de " + Anio + ". Hora local: ";
+    
+  var Inicio, Script, Final, Total 
+    
+  Inicio = "" 
+    
+  Script = Fecha + Hora + ":" + Minutos + ":" + Segundos 
+    
+  Final = "Hora"  
+    
+  Total = Inicio + Script + Final 
+    
+  document.getElementById('Fecha_Reloj').innerHTML = Total 
+   
+  setTimeout("actualizaReloj()",1000)  
+  } 
+  -->
+  </script>
+  </head> 
+  <body onload="actualizaReloj()"> 
+ <table><tr><td id="Fecha_Reloj"></td></tr></table>
+  <p>&#9989</p>
+  </body>
+  </footer> 
+<footer id= "softwareofimatico">
+  <p>SOFTWARE OFIMÁTICO</p>
+</footer>
+<footer id= "utilidades">
+  <p>UTILIDADES DE SEGURIDAD</p>
+</footer>
+<footer id= "softwarerecuperacion">
+  <p>SOFTWARE DE RECUPERACIÓN</p>
+</footer>
+<footer id= "portables">
+  <p>APLICACIONES PORTABLES</p>
+</footer>
+</body>
+</html>
