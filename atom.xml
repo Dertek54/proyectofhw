@@ -6,10 +6,10 @@
 
 	<id>https://github.com/Dertek54/proyectofhw</id>
 
-	<title>Ofimática atom</title>
+	<title>Ofimática</title>
 	<updated>2021-12-21T19:06:00+01:00</updated>
 
-	<link rel="alternate" href="https://github.com/Jmmonot2011/proyectofhw/edit/main/atom.xml"/>
+	<link rel="alternate" href="https://github.com/Dertek54/proyectofhw/edit/main/atom.xml"/>
 
 	<author>
 	    <name>Antonio Martos</name>
@@ -23,7 +23,7 @@
 		<email>otro@gmail.com</email>
 		<uri>https://www.linkedin.com/in/otro</uri>
 	</contributor>
-	<logo>atom.png</logo>
+	<logo>imagenes/atom.png</logo>
 
 
 	<entry>
