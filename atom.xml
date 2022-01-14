@@ -27,15 +27,15 @@
 
 
 	<entry>
-		<id>https://dertek54.github.io/proyectofhw/#ofimatica</id>
-		<title>Ofimática</title>
+		<id>https://dertek54.github.io/proyectofhw/#seguridad</id>
+		<title>Seguridad</title>
 		<update>2021-02-12T18:30:00+01:00</update>
 		<author>
 			<name>Antonio Martos</name>
 			<email>maroan_aliesma20@iesmedinaazahara.es</email>
 		</author>
 		<summary> Bienvenido al caos de la informática</summary>
-		<link rel="alternate" href="https://dertek54.github.io/proyectofhw/#ofimatica"></link>
+		<link rel="alternate" href="https://dertek54.github.io/proyectofhw/#seguridad"></link>
 	</entry>
 
 </feed>
