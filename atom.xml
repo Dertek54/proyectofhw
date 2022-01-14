@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" 
+	xml:lang="es" 
+	xml:base="https://github.com/Dertek54/proyectofhw">
+
+	<id>https://github.com/Dertek54/proyectofhw</id>
+
+	<title>Ofimática atom</title>
+	<updated>2021-12-21T19:06:00+01:00</updated>
+
+	<link rel="alternate" href="https://github.com/Jmmonot2011/proyectofhw/edit/main/atom.xml"/>
+
+	<author>
+	    <name>Antonio Martos</name>
+		<email>maroan_aliesma20@iesmedinaazahara.es</email>
+	</author>
+
+	<category term="Ofimática"/>
+
+	<contributor>
+		<name>otro Autor</name>
+		<email>otro@gmail.com</email>
+		<uri>https://www.linkedin.com/in/otro</uri>
+	</contributor>
+	<logo>atom.png</logo>
+
+
+	<entry>
+		<id>https://dertek54.github.io/proyectofhw/#ofimatica</id>
+		<title>Ofimática</title>
+		<update>2021-02-12T18:30:00+01:00</update>
+		<author>
+			<name>Antonio Martos</name>
+			<email>maroan_aliesma20@iesmedinaazahara.es</email>
+		</author>
+		<summary> Bienvenido al caos de la informática</summary>
+		<link rel="alternate" href="https://github.com/Dertek54/proyectofhw/edit/main/index.html"></link>
+	</entry>
+
+</feed>
