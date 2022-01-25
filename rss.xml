@@ -3,29 +3,29 @@
 	<channel>
 		<!--Prólogo-->
 		<title>Ofimática</title>
-		<link>https://jmmonot2011.github.io/proyectofhw</link>
+		<link>https://dertek54.github.io/proyectofhw/#ofimatica</link>
 		<description>
 			Canal de aplicaciones ofimáticas
 		</description>
 		<category>Ofimática</category>
 		<copyright>1º ASIR - LMSGI</copyright>
 		<image>
-			<url>https://jmmonot2011.github.io/proyectofhw/Imagenes/logo.jpg</url>
+			<urlhttps://dertek54.github.io/proyectofhw/#ofimatica/rss.jpg</url>
 			<title>Tutoriales Informática</title>
-			<link>https://jmmonot2011.github.io/proyectofhw</link>
+			<link>https://dertek54.github.io/proyectofhw/#ofimatica</link>
 			<width>30</width>
 			<height>30</height>
 		</image>
 		<language>es-es</language>
 		<lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
-		<webMaster>jmmonot2011@gmail.com</webMaster>
+		<webMaster>Antonio J.</webMaster>
 		
 		<!-- Noticias del canal -->
 		<item>
 			<title>Ofimática</title>
 			<description>En este artículo encontrará información sobre Ofimática</description>
-			<link>https://jmmonot2011.github.io/proyectofhw/pages/ofimática.html</link>
-			<author>jmmonot2011@gmail.com</author>
+			<link>https://github.com/Dertek54/proyectofhw/blob/main/pages/ofimatica.html</link>
+			<author>Antonio M</author>
 			<category>Ofimática</category>
 			<enclosure url="https://youtu.be/VupykmeN-xM"
 				type="video" length="32572719"/>
@@ -34,8 +34,8 @@
 		<item>
 			<title>word</title>
 			<description>En este artículo encontrará información sobre Ofimática</description>
-			<link>https://jmmonot2011.github.io/proyectofhw/pages/word.html</link>
-			<author>jmmonot2011@gmail.com</author>
+			<link>https://github.com/Dertek54/proyectofhw/blob/main/pages/ofimatica.html</link>
+			<author>a.m</author>
 			<category>Ofimática</category>
 			<enclosure url="https://youtu.be/VupykmeN-xM"
 				type="video" length="32572719"/>
