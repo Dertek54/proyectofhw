@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<!--Prólogo-->
-		<title>Ofimática</title>
+		<title>Ofimática rss</title>
 		<link>https://dertek54.github.io/proyectofhw/#ofimatica</link>
 		<description>
 			Canal de aplicaciones ofimáticas
@@ -24,7 +24,7 @@
 		<item>
 			<title>Ofimática</title>
 			<description>En este artículo encontrará información sobre Ofimática</description>
-			<link>https://github.com/Dertek54/proyectofhw/blob/main/pages/ofimatica.html</link>
+			<link>https://github.com/Dertek54/proyectofhw/pages/ofimatica.html</link>
 			<author>Antonio M</author>
 			<category>Ofimática</category>
 			<enclosure url="https://youtu.be/VupykmeN-xM"
@@ -34,7 +34,7 @@
 		<item>
 			<title>word</title>
 			<description>En este artículo encontrará información sobre Ofimática</description>
-			<link>https://github.com/Dertek54/proyectofhw/blob/main/pages/ofimatica.html</link>
+			<link>https://github.com/Dertek54/proyectofhw/pages/ofimatica.html</link>
 			<author>a.m</author>
 			<category>Ofimática</category>
 			<enclosure url="https://youtu.be/VupykmeN-xM"
