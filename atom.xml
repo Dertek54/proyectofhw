@@ -6,7 +6,7 @@
 
 	<id>https://github.com/Dertek54/proyectofhw</id>
 
-	<title>Seguridad</title>
+	<title>Atom</title>
 	<updated>2021-12-21T19:06:00+01:00</updated>
 
 	<link rel="alternate" href="https://github.com/Dertek54/proyectofhw/edit/main/atom.xml"/>
@@ -35,8 +35,9 @@
 			<email>maroan_aliesma20@iesmedinaazahara.es</email>
 		</author>
 		<summary> Bienvenido al caos de la informática</summary>
-		<link rel="alternate">https://dertek54.github.io/proyectofhw/pages/seguridad.html</link>
+		<link rel="alternate">https://github.com/Dertek54/proyectofhw/blob/main/pages/seguridad.html</link>
 	</entry>
+	
 	<entry>
 		<id>https://dertek54.github.io/proyectofhw/ofimatica.html</id>
 		<title>Ofimática</title>
@@ -46,7 +47,7 @@
 			<email>maroan_aliesma20@iesmedinaazahara.es</email>
 		</author>
 		<summary> Bienvenido al caos de la informática</summary>
-		<link rel="alternate" href="https://dertek54.github.io/proyectofhw/ofimatica.html"></link>
+		<link rel="alternate">https://dertek54.github.io/proyectofhw/pages/ofimatica.html</link>
 	</entry>
 	<entry>
 		<id>https://dertek54.github.io/proyectofhw/recuperacion.html</id>
@@ -57,7 +58,7 @@
 			<email>maroan_aliesma20@iesmedinaazahara.es</email>
 		</author>
 		<summary> Bienvenido al caos de la informática</summary>
-		<link rel="alternate" href="https://dertek54.github.io/proyectofhw/recuperacion.html"></link>
+		<link rel="alternate">https://dertek54.github.io/proyectofhw/pages/recuperacion.html</link>
 	</entry>
 	<entry>
 		<id>https://dertek54.github.io/proyectofhw/aplicaciones.html</id>
@@ -68,7 +69,7 @@
 			<email>maroan_aliesma20@iesmedinaazahara.es</email>
 		</author>
 		<summary> Bienvenido al caos de la informática</summary>
-		<link rel="alternate" href="https://dertek54.github.io/proyectofhw/aplicaciones.html"></link>
+		<link rel="alternate">https://dertek54.github.io/proyectofhw/pages/aplicaciones.html</link>
 	</entry>
 	<entry>
 		<id>https://dertek54.github.io/proyectofhw/clonezilla.html</id>
@@ -79,7 +80,7 @@
 			<email>maroan_aliesma20@iesmedinaazahara.es</email>
 		</author>
 		<summary> Bienvenido al caos de la informática</summary>
-		<link rel="alternate" href="https://dertek54.github.io/proyectofhw/clonezilla.html"></link>
+		<link rel="alternate">https://dertek54.github.io/proyectofhw/pages/clonezilla.html</link>
 	</entry>
 
 </feed>
