@@ -3,7 +3,7 @@
 	<channel>
 		<!--Prólogo-->
 		<title>Ofimática rss</title>
-		<link>https://dertek54.github.io/proyectofhw/#ofimatica</link>
+		<link>https://dertek54.github.io/proyectofhw</link>
 		<description>
 			Canal de aplicaciones ofimáticas
 		</description>
@@ -12,7 +12,7 @@
 		<image>
 			<urlhttps://dertek54.github.io/proyectofhw/#ofimatica/rss.jpg</url>
 			<title>Tutoriales Informática</title>
-			<link>https://dertek54.github.io/proyectofhw/rss.xml</link>
+			<link>https://dertek54.github.io/proyectofhw</link>
 			<width>30</width>
 			<height>30</height>
 		</image>
