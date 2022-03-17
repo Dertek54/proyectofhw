@@ -32,11 +32,51 @@
 			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
 		</item>
 		<item>
+			<title>Seguridad</title>
+			<description>En este artículo encontrará información sobre Seguridad</description>
+			<link>https://github.com/Dertek54/proyectofhw/pages/seguridad.html</link>
+			<author>a.m</author>
+			<category>Seguridad</category>
+			<enclosure url="https://youtu.be/VupykmeN-xM"
+				type="video" length="32572719"/>
+			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+		<item>
 			<title>word</title>
 			<description>En este artículo encontrará información sobre Ofimática</description>
 			<link>https://github.com/Dertek54/proyectofhw/pages/ofimatica.html</link>
 			<author>a.m</author>
 			<category>Ofimática</category>
+			<enclosure url="https://youtu.be/VupykmeN-xM"
+				type="video" length="32572719"/>
+			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>Aplicaciones</title>
+			<description>En este artículo encontrará información sobre Aplicaciones</description>
+			<link>https://github.com/Dertek54/proyectofhw/pages/aplicaciones.html</link>
+			<author>a.m</author>
+			<category>Aplicaciones</category>
+			<enclosure url="https://youtu.be/VupykmeN-xM"
+				type="video" length="32572719"/>
+			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>Recuperacion</title>
+			<description>En este artículo encontrará información sobre Aplicaciones de Recuperación</description>
+			<link>https://github.com/Dertek54/proyectofhw/pages/recuperacion.html</link>
+			<author>a.m</author>
+			<category>Recuperacion</category>
+			<enclosure url="https://youtu.be/VupykmeN-xM"
+				type="video" length="32572719"/>
+			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>Clonezilla</title>
+			<description>En este artículo encontrará información sobre Clonezilla</description>
+			<link>https://github.com/Dertek54/proyectofhw/pages/clonezilla.html</link>
+			<author>a.m</author>
+			<category>Clonezilla</category>
 			<enclosure url="https://youtu.be/VupykmeN-xM"
 				type="video" length="32572719"/>
 			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
