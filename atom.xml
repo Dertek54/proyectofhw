@@ -37,5 +37,49 @@
 		<summary> Bienvenido al caos de la informática</summary>
 		<link rel="alternate" href="https://dertek54.github.io/proyectofhw/#seguridad"></link>
 	</entry>
+	<entry>
+		<id>https://dertek54.github.io/proyectofhw/#ofimatica</id>
+		<title>Ofimática</title>
+		<update>2021-02-12T18:30:00+01:00</update>
+		<author>
+			<name>Antonio Martos</name>
+			<email>maroan_aliesma20@iesmedinaazahara.es</email>
+		</author>
+		<summary> Bienvenido al caos de la informática</summary>
+		<link rel="alternate" href="https://dertek54.github.io/proyectofhw/#ofimatica"></link>
+	</entry>
+	<entry>
+		<id>https://dertek54.github.io/proyectofhw/#recuperacion</id>
+		<title>Recuperacion</title>
+		<update>2021-02-12T18:30:00+01:00</update>
+		<author>
+			<name>Antonio Martos</name>
+			<email>maroan_aliesma20@iesmedinaazahara.es</email>
+		</author>
+		<summary> Bienvenido al caos de la informática</summary>
+		<link rel="alternate" href="https://dertek54.github.io/proyectofhw/#recuperacion"></link>
+	</entry>
+	<entry>
+		<id>https://dertek54.github.io/proyectofhw/#aplicaciones</id>
+		<title>Aplicaciones</title>
+		<update>2021-02-12T18:30:00+01:00</update>
+		<author>
+			<name>Antonio Martos</name>
+			<email>maroan_aliesma20@iesmedinaazahara.es</email>
+		</author>
+		<summary> Bienvenido al caos de la informática</summary>
+		<link rel="alternate" href="https://dertek54.github.io/proyectofhw/#aplicaciones"></link>
+	</entry>
+	<entry>
+		<id>https://dertek54.github.io/proyectofhw/#clonezilla</id>
+		<title>Clonezilla</title>
+		<update>2021-02-12T18:30:00+01:00</update>
+		<author>
+			<name>Antonio Martos</name>
+			<email>maroan_aliesma20@iesmedinaazahara.es</email>
+		</author>
+		<summary> Bienvenido al caos de la informática</summary>
+		<link rel="alternate" href="https://dertek54.github.io/proyectofhw/#clonezilla"></link>
+	</entry>
 
 </feed>
